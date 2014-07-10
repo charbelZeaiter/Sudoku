@@ -11,6 +11,6 @@ Sudoku Game
 
 
 
-=== Creation ===
-By: Charbel Zeaiter, Casper Chia and David Wen
-Year: 2013
+=== Creation ===  
+By: Charbel Zeaiter, Casper Chia and David Wen  
+Year: 2013  
