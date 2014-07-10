@@ -8,6 +8,6 @@ Sudoku Game
 - Assist feature; which fills in a random square. Limted amount of assists per game.
 
 
-=== Creation ===  
+**=== Creation ===**  
 By: Charbel Zeaiter, Casper Chia and David Wen  
 Year: 2013  
